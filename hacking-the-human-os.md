@@ -1,4 +1,4 @@
-# Hacking the Human OS
+# Hacking the Human OS: Revoking Public Access
 
 Every day, you are bombarded with data points. A rude email from a boss, a sudden traffic jam, a compliment from a stranger. These are external stimuli—events presented to your system.
 
